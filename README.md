@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&random=false&width=495&lines=Akib+Mohtasim;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=500&random=false&width=495&lines=Hi!+I'm+Akib+Mohtasim;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 ![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=dark&card_width=495&hide_border=true)
 
