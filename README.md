@@ -1,4 +1,4 @@
-![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=transparent&include_all_commits=true)
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=transparent&card_width=495&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkibMohtasim&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
