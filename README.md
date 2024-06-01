@@ -1,1 +1,1 @@
-![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=shadow_blue)
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=transparent)
