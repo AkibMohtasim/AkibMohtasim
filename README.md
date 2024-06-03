@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&color=068042&pause=500&random=false&width=495&lines=Hi!+I'm+Akib;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 
 
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&color=068042&pause=500&random=false&width=495&lines=Hi!+I'm+Akib;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 <h3 align="left">Languages and Tools I use</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,9 +38,9 @@
   }
 </style>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&color=068042&pause=500&random=false&width=495&lines=Hi!+I'm+Akib;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 <div style="font-family: 'Fira Code', monospace;">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&color=068042&pause=500&random=false&width=495&lines=Hi!+I'm+Akib;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
