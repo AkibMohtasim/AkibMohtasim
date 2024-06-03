@@ -29,6 +29,17 @@
 
 -->
 
+<!-- Add a style block at the top to define the font style -->
+<style>
+  body {
+    font-family: 'Fira Code', monospace;
+  }
+</style>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&color=068042&pause=500&random=false&width=495&lines=Hi!+I'm+Akib;Full+Stack+Web+Developer;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
+<div style="font-family: 'Fira Code', monospace;">
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 Graduated in Electrical and Electronic Engineering 𝚊𝚝 𝚝𝚑𝚎 Islamic 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Technology, 2022
@@ -46,9 +57,6 @@
 &nbsp;
 &nbsp;
 
-
-
-
 ![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkibMohtasim&show_icons=true&theme=dark&card_width=495&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkibMohtasim&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -56,3 +64,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibMohtasim&theme=dark&show_icons=true&hide_border=true&card_width=495)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300000000)
+
+</div>
