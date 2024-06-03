@@ -29,7 +29,9 @@
 
 -->
 
-<!-- Add a style block at the top to define the font style -->
+<!-- Load Fira Code from Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap">
+
 <style>
   body {
     font-family: 'Fira Code', monospace;
@@ -66,3 +68,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2300000000)
 
 </div>
+
