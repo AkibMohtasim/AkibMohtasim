@@ -21,7 +21,7 @@
 &nbsp;
 
 
-## 🔧 I am skilled in 
+## 🔧 𝙸'𝚖 skilled in
 
 <div >
 	<table>
