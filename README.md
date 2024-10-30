@@ -11,8 +11,8 @@
 &nbsp;
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-	- Doing some freelance works
+- 🔨 𝙸 have 𝚛𝚎ce𝚗𝚝𝚕𝚢...
+	- Moved to USA
 
 <!-- - 🎯 --> 
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
